@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CoinChange
+comment1.params=coins\ sum\ n\ dp
+comment1.target=int\ totWaysMem(int[],\ int,\ int,\ int[][])
+comment2.params=coins\ sum
+comment2.target=int\ totWaysTab(int[],\ int)
+comment3.params=
+comment3.target=void\ main()
+numComments=4

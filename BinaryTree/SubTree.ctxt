@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SubTree
+comment1.params=root\ subRoot
+comment1.target=boolean\ isIdentical(SubTree.Node,\ SubTree.Node)
+comment2.params=root\ subRoot
+comment2.target=boolean\ isSubTree(SubTree.Node,\ SubTree.Node)
+comment3.params=
+comment3.target=void\ main()
+numComments=4

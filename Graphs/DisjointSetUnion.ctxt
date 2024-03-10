@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=DisjointSetUnion
+comment1.params=n
+comment1.target=DisjointSetUnion(int)
+comment2.params=x
+comment2.target=int\ findParent(int)
+comment3.params=a\ b
+comment3.target=void\ union(int,\ int)
+comment4.params=
+comment4.target=void\ main()
+numComments=5

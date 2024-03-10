@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=NKnights
+comment1.params=board\ i\ j\ count
+comment1.target=void\ allPossibleWays(int[][],\ int,\ int,\ int)
+comment2.params=board
+comment2.target=void\ print(int[][])
+comment3.params=
+comment3.target=void\ main()
+numComments=4

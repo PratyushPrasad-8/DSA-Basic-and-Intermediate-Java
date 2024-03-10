@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Inverted
+comment1.params=root
+comment1.target=void\ print(Inverted.Node)
+comment2.params=root
+comment2.target=void\ invert(Inverted.Node)
+comment3.params=
+comment3.target=void\ main()
+numComments=4

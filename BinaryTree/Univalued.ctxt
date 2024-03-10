@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Univalued
+comment1.params=root\ map
+comment1.target=boolean\ isUnivalued(Univalued.Node,\ java.util.HashMap)
+comment2.params=
+comment2.target=void\ main()
+numComments=3

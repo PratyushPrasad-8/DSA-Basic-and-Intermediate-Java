@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=UniqueSubstrings
+comment1.params=root\ word\ idx
+comment1.target=void\ insert(UniqueSubstrings.Node,\ java.lang.String,\ int)
+comment2.params=root\ word
+comment2.target=void\ getSuffixIntoTrie(UniqueSubstrings.Node,\ java.lang.String)
+comment3.params=root
+comment3.target=int\ countNodes(UniqueSubstrings.Node)
+comment4.params=
+comment4.target=void\ main()
+numComments=5

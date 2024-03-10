@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=RemoveNthTermFromEnd
+comment1.params=
+comment1.target=int\ calSize()
+comment2.params=pos
+comment2.target=void\ RemoveFromEndPos(int)
+comment3.params=
+comment3.target=void\ print()
+comment4.params=
+comment4.target=void\ main()
+numComments=5

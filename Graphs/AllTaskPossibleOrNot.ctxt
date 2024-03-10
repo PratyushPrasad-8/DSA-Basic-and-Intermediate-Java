@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=AllTaskPossibleOrNot
+comment1.params=graph\ curr\ vis\ stack
+comment1.target=boolean\ isCycle(java.util.ArrayList[],\ int,\ boolean[],\ boolean[])
+comment2.params=
+comment2.target=boolean\ main()
+numComments=3

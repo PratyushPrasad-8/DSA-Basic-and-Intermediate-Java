@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=WildCardMatching
+comment1.params=pattern
+comment1.target=boolean\ allStar(java.lang.String)
+comment2.params=text\ pattern\ n\ m\ dp
+comment2.target=boolean\ match(java.lang.String,\ java.lang.String,\ int,\ int,\ int[][])
+comment3.params=
+comment3.target=void\ main()
+numComments=4

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MinimumTimeNSlots
+comment1.params=N\ arr
+comment1.target=int\ minimumTime(int,\ int[])
+comment2.params=
+comment2.target=void\ main()
+numComments=3

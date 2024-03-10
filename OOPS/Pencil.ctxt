@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Pencil
+comment1.params=
+comment1.target=void\ draw()
+comment2.params=x
+comment2.target=void\ write(int)
+comment3.params=
+comment3.target=void\ sharp()
+numComments=4

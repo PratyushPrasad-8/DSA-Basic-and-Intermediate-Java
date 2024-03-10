@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Zigzag
+comment1.params=
+comment1.target=void\ print()
+comment2.params=
+comment2.target=Zigzag.Node\ getMid()
+comment3.params=temp
+comment3.target=Zigzag.Node\ reverse(Zigzag.Node)
+comment4.params=leftHead\ rightHead
+comment4.target=void\ doZigzag(Zigzag.Node,\ Zigzag.Node)
+comment5.params=
+comment5.target=void\ zigZag()
+comment6.params=
+comment6.target=void\ main()
+numComments=7

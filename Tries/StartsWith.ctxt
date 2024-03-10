@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=StartsWith
+comment1.params=root\ word
+comment1.target=void\ insert(StartsWith.Node,\ java.lang.String)
+comment2.params=root\ word\ idx
+comment2.target=boolean\ search(StartsWith.Node,\ java.lang.String,\ int)
+comment3.params=
+comment3.target=void\ main()
+numComments=4

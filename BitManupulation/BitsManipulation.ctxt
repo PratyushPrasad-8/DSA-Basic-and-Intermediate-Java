@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=BitsManipulation
+comment1.params=m\ n
+comment1.target=void\ bitWiseAnd(int,\ int)
+comment2.params=m\ n
+comment2.target=void\ bitWiseOr(int,\ int)
+comment3.params=m\ n
+comment3.target=void\ bitWiseXor(int,\ int)
+comment4.params=m
+comment4.target=void\ bitWiseComplement(int)
+comment5.params=m\ n
+comment5.target=void\ bitWiseLeft(int,\ int)
+comment6.params=m\ n
+comment6.target=void\ bitWiseRight(int,\ int)
+comment7.params=
+comment7.target=void\ main()
+numComments=8

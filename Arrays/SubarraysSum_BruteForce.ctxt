@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SubarraysSum_BruteForce
+comment1.params=arr
+comment1.target=void\ getSubArrays(int[])
+comment2.params=
+comment2.target=void\ main()
+numComments=3

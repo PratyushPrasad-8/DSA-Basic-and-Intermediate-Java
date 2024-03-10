@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=RodCutting
+comment1.params=price\ length\ n\ dp
+comment1.target=int\ maxProfitMem(int[],\ int,\ int,\ int[][])
+comment2.params=price\ length
+comment2.target=int\ maxProfitTab(int[],\ int)
+comment3.params=
+comment3.target=void\ main()
+numComments=4

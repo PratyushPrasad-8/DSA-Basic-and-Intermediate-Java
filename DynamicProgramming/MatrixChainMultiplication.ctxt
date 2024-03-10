@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MatrixChainMultiplication
+comment1.params=arr\ i\ j\ dp
+comment1.target=int\ maxCost(int[],\ int,\ int,\ int[][])
+comment2.params=
+comment2.target=void\ main()
+numComments=3

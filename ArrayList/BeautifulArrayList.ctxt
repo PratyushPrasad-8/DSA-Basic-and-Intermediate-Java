@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=BeautifulArrayList
+comment1.params=list\ ans
+comment1.target=void\ beautifulArrayList(java.util.ArrayList,\ java.util.ArrayList)
+comment2.params=ans
+comment2.target=boolean\ isBeautiful(java.util.ArrayList)
+comment3.params=
+comment3.target=void\ main()
+numComments=4

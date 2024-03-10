@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=DirectedCycles
+comment1.params=graph
+comment1.target=void\ createDirectedGraph(java.util.ArrayList[])
+comment2.params=graph
+comment2.target=boolean\ isCycle(java.util.ArrayList[])
+comment3.params=graph\ curr\ vis\ stack
+comment3.target=boolean\ isCycleUtil(java.util.ArrayList[],\ int,\ boolean[],\ boolean[])
+comment4.params=
+comment4.target=void\ main()
+numComments=5

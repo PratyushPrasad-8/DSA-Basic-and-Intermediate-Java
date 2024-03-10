@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=JobSequencing
+comment1.params=jobProfit\ jobDeadline\ job
+comment1.target=java.lang.String\ maxProfit(int[],\ int[],\ char[])
+comment2.params=
+comment2.target=void\ main()
+numComments=3

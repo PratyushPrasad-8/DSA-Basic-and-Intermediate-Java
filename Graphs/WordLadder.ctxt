@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=WordLadder
+comment1.params=words\ start\ end
+comment1.target=int\ getWordLadder(java.lang.String[],\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ main()
+numComments=3

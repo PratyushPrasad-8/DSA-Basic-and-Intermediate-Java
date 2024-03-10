@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=NQueens
+comment1.params=board\ row
+comment1.target=void\ nqueens(char[][],\ int)
+comment2.params=board\ row\ col
+comment2.target=boolean\ isSafe(char[][],\ int,\ int)
+comment3.params=board
+comment3.target=void\ print(char[][])
+comment4.params=
+comment4.target=void\ main()
+numComments=5

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=NextGreaterElement
+comment1.params=arr\ nextGreater
+comment1.target=void\ findnxtGreater(int[],\ int[])
+comment2.params=
+comment2.target=void\ main()
+numComments=3

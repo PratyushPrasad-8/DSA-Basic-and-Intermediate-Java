@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=KosaRaju
+comment1.params=graph\ V
+comment1.target=void\ createGraph(java.util.ArrayList[],\ int)
+comment2.params=graph\ curr\ s\ vis
+comment2.target=void\ topSort(java.util.ArrayList[],\ int,\ java.util.Stack,\ boolean[])
+comment3.params=graph\ transpose\ V
+comment3.target=void\ reverse(java.util.ArrayList[],\ java.util.ArrayList[],\ int)
+comment4.params=graph\ curr\ vis
+comment4.target=void\ dfs(java.util.ArrayList[],\ int,\ boolean[])
+comment5.params=graph\ V
+comment5.target=void\ SCC(java.util.ArrayList[],\ int)
+comment6.params=
+comment6.target=void\ main()
+numComments=7

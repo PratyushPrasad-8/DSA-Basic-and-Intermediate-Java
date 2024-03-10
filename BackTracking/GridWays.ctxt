@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=GridWays
+comment1.params=grid\ i\ j\ er\ ec
+comment1.target=void\ ways(char[][],\ int,\ int,\ int,\ int)
+comment2.params=grid
+comment2.target=void\ print(char[][])
+comment3.params=
+comment3.target=void\ main()
+numComments=4

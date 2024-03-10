@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PriorityQueues
+comment1.params=data
+comment1.target=void\ add(int)
+comment2.params=
+comment2.target=int\ peek()
+comment3.params=
+comment3.target=int\ remove()
+comment4.params=i
+comment4.target=void\ heapify(int)
+comment5.params=
+comment5.target=void\ main()
+numComments=6

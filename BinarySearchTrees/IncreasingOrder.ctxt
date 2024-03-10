@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=IncreasingOrder
+comment1.params=root\ s
+comment1.target=void\ fill(IncreasingOrder.Node,\ java.util.Stack)
+comment2.params=s
+comment2.target=int\ getIncreasingOrder(java.util.Stack)
+comment3.params=
+comment3.target=void\ main()
+numComments=4

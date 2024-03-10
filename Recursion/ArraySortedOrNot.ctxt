@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ArraySortedOrNot
+comment1.params=arr\ pos
+comment1.target=boolean\ isSorted(int[],\ int)
+comment2.params=
+comment2.target=void\ main()
+numComments=3

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MinimumViaBinarySearch
+comment1.params=arr
+comment1.target=int\ minimum(int[])
+comment2.params=
+comment2.target=void\ main()
+numComments=3

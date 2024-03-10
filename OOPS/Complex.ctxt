@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Complex
+comment1.params=a\ b\ c\ d
+comment1.target=void\ sum(int,\ int,\ int,\ int)
+comment2.params=a\ b\ c\ d
+comment2.target=void\ difference(int,\ int,\ int,\ int)
+comment3.params=a\ b\ c\ d
+comment3.target=void\ product(int,\ int,\ int,\ int)
+numComments=4

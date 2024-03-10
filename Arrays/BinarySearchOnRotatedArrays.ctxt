@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=BinarySearchOnRotatedArrays
+comment1.params=arr\ target
+comment1.target=int\ binarySearch(int[],\ int)
+comment2.params=arr
+comment2.target=int\ minSearch(int[])
+comment3.params=arr\ left\ right\ target
+comment3.target=int\ search(int[],\ int,\ int,\ int)
+comment4.params=
+comment4.target=void\ main()
+numComments=5

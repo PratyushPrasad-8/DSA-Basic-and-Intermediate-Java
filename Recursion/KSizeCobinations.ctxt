@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=KSizeCobinations
+comment1.params=st\ end\ current\ k\ arr\ mindiff
+comment1.target=int\ generateCombinations(int,\ int,\ java.util.ArrayList,\ int,\ int[],\ int)
+comment2.params=
+comment2.target=void\ main()
+numComments=3

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TrappedRainWater
+comment1.params=arr\ width
+comment1.target=int\ getTrappedWater(int[],\ int)
+comment2.params=
+comment2.target=void\ main()
+numComments=3

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Singly_AddRemovePrint
+comment1.params=data
+comment1.target=void\ addFirst(int)
+comment2.params=data
+comment2.target=void\ addLast(int)
+comment3.params=data\ pos
+comment3.target=void\ addMid(int,\ int)
+comment4.params=
+comment4.target=void\ removeFirst()
+comment5.params=
+comment5.target=void\ removeLast()
+comment6.params=pos
+comment6.target=void\ removeMid(int)
+comment7.params=
+comment7.target=void\ print()
+comment8.params=
+comment8.target=void\ main()
+numComments=9

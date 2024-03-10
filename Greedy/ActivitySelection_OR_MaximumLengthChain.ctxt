@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ActivitySelection_OR_MaximumLengthChain
+comment1.params=start\ end
+comment1.target=int\ maxActivity(int[],\ int[])
+comment2.params=
+comment2.target=void\ mian()
+numComments=3

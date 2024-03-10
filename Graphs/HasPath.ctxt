@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=HasPath
+comment1.params=graph
+comment1.target=void\ createGraph(java.util.ArrayList[])
+comment2.params=graph\ curr\ dest\ vis
+comment2.target=boolean\ isPath(java.util.ArrayList[],\ int,\ int,\ boolean[])
+comment3.params=
+comment3.target=void\ main()
+numComments=4

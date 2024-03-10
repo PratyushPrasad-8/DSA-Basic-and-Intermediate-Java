@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Reversal
+comment1.params=q
+comment1.target=void\ reverse(java.util.Queue)
+comment2.params=
+comment2.target=void\ main()
+numComments=3

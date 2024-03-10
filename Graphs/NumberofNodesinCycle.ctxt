@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=NumberofNodesinCycle
+comment1.params=graph
+comment1.target=void\ createGraph(java.util.ArrayList[])
+comment2.params=graph\ curr\ dest\ vis\ count
+comment2.target=int\ calNodes(java.util.ArrayList[],\ int,\ int,\ boolean[],\ int)
+comment3.params=graph\ curr\ parent\ vis
+comment3.target=int\ countNodesinCycle(java.util.ArrayList[],\ int,\ int,\ boolean[])
+comment4.params=
+comment4.target=void\ main()
+numComments=5

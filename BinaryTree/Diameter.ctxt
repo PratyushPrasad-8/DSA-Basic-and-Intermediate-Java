@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Diameter
+comment1.params=root
+comment1.target=Diameter.Bundle\ diameter(Diameter.Node)
+comment2.params=
+comment2.target=void\ main()
+numComments=3

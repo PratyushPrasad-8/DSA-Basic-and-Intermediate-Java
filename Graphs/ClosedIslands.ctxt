@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ClosedIslands
+comment1.params=cr\ cc\ vis\ arr
+comment1.target=boolean\ isValidIsland(int,\ int,\ boolean[][],\ int[][])
+comment2.params=
+comment2.target=void\ main()
+numComments=3

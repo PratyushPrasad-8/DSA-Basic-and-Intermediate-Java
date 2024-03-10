@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SumOfNodes
+comment1.params=root
+comment1.target=int\ sum(SumOfNodes.Node)
+comment2.params=
+comment2.target=void\ main()
+numComments=3

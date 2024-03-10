@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TotalSetBits
+comment1.params=m
+comment1.target=int\ totalSetBits(int)
+comment2.params=
+comment2.target=void\ main()
+numComments=3

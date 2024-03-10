@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=KanpSack01
+comment1.params=weights\ values\ W\ n
+comment1.target=int\ maxProfit(int[],\ int[],\ int,\ int)
+comment2.params=weights\ values\ W\ n\ dp
+comment2.target=int\ maxProfitMem(int[],\ int[],\ int,\ int,\ int[][])
+comment3.params=weights\ values\ W
+comment3.target=int\ maxProfitTab(int[],\ int[],\ int)
+comment4.params=
+comment4.target=void\ main()
+numComments=5

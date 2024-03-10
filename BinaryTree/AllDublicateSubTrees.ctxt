@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=AllDublicateSubTrees
+comment1.params=root1\ root2
+comment1.target=boolean\ compare(AllDublicateSubTrees.Node,\ AllDublicateSubTrees.Node)
+comment2.params=root\ arr\ map
+comment2.target=void\ checkDublicate(AllDublicateSubTrees.Node,\ java.util.ArrayList,\ java.util.HashMap)
+comment3.params=
+comment3.target=void\ main()
+numComments=4

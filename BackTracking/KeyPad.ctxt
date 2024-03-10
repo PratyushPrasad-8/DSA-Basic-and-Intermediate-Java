@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=KeyPad
+comment1.params=s\ ans\ i\ count
+comment1.target=void\ possibleWays(java.lang.String,\ java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=void\ main()
+numComments=3

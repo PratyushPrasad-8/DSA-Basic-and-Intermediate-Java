@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=substrings
+comment1.params=s\ idx
+comment1.target=void\ substring(java.lang.String,\ int)
+comment2.params=
+comment2.target=void\ main()
+numComments=3

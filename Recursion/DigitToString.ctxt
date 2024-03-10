@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=DigitToString
+comment1.params=n\ stored
+comment1.target=void\ convert(int,\ java.lang.String[])
+comment2.params=
+comment2.target=void\ main()
+numComments=3

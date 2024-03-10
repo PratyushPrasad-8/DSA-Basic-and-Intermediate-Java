@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=BinarySeach
+comment1.params=arr\ key
+comment1.target=int\ binarySearch(int[],\ int)
+comment2.params=
+comment2.target=void\ main()
+numComments=3

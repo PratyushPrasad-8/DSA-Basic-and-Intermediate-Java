@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=LowestCommonAncestorApproach2
+comment1.params=root\ list\ n
+comment1.target=LowestCommonAncestorApproach2.Node\ route(LowestCommonAncestorApproach2.Node,\ java.util.ArrayList,\ int)
+comment2.params=root\ n1\ n2
+comment2.target=void\ LCA(LowestCommonAncestorApproach2.Node,\ int,\ int)
+comment3.params=
+comment3.target=void\ main()
+numComments=4

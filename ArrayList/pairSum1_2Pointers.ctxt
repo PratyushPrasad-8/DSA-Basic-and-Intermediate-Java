@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=pairSum1_2Pointers
+comment1.params=list\ target
+comment1.target=boolean\ pairSum(java.util.ArrayList,\ int)
+comment2.params=
+comment2.target=void\ main()
+numComments=3

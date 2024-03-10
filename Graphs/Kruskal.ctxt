@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Kruskal
+comment1.params=graph\ V
+comment1.target=void\ createGraph(java.util.ArrayList[],\ int)
+comment2.params=graph\ V
+comment2.target=void\ kruskals(java.util.ArrayList[],\ int)
+comment3.params=
+comment3.target=void\ main()
+numComments=4

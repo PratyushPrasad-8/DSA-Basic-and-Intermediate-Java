@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=GetSetClear_Update_ClearLastTerms_ClearRange_SetRange
+comment1.params=m\ n
+comment1.target=int\ getBit(int,\ int)
+comment2.params=m\ n
+comment2.target=int\ setBit(int,\ int)
+comment3.params=m\ n
+comment3.target=int\ clearBit(int,\ int)
+comment4.params=m\ n\ bitValue
+comment4.target=int\ updateBit(int,\ int,\ int)
+comment5.params=m\ n
+comment5.target=int\ clearLastTerms(int,\ int)
+comment6.params=m\ i\ j
+comment6.target=int\ clearRange(int,\ int,\ int)
+comment7.params=m\ i\ j
+comment7.target=int\ setRange(int,\ int,\ int)
+comment8.params=
+comment8.target=void\ main()
+numComments=9

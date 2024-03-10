@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Solution
+comment1.params=x\ y
+comment1.target=void\ swapNodes(int,\ int)
+comment2.params=new_data
+comment2.target=void\ push(int)
+comment3.params=
+comment3.target=void\ printList()
+comment4.params=
+comment4.target=void\ main()
+numComments=5

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ArrangeLexicographically
+comment1.params=s
+comment1.target=void\ arrange(java.lang.String[])
+comment2.params=s
+comment2.target=void\ print(java.lang.String[])
+comment3.params=
+comment3.target=void\ main()
+numComments=4

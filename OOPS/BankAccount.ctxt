@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=BankAccount
+comment1.params=username
+comment1.target=void\ setUserName(java.lang.String)
+comment2.params=
+comment2.target=void\ getUserName()
+comment3.params=passWord
+comment3.target=void\ setPassWord(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getPassWord()
+numComments=5

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Pallindrome
+comment1.params=
+comment1.target=Pallindrome.Node\ findMid()
+comment2.params=mid
+comment2.target=Pallindrome.Node\ reverse(Pallindrome.Node)
+comment3.params=left\ right
+comment3.target=boolean\ check(Pallindrome.Node,\ Pallindrome.Node)
+comment4.params=
+comment4.target=boolean\ isPallindrome()
+comment5.params=
+comment5.target=void\ main()
+numComments=6

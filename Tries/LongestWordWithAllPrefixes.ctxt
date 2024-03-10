@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=LongestWordWithAllPrefixes
+comment1.params=root\ word\ idx
+comment1.target=void\ insert(LongestWordWithAllPrefixes.Node,\ java.lang.String,\ int)
+comment2.params=root\ temp
+comment2.target=void\ getLongest(LongestWordWithAllPrefixes.Node,\ java.lang.String)
+comment3.params=
+comment3.target=void\ main()
+numComments=4

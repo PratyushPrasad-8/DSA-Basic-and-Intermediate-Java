@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PrefixProblem
+comment1.params=root\ word\ idx
+comment1.target=void\ insert(PrefixProblem.Node,\ java.lang.String,\ int)
+comment2.params=root\ word\ idx
+comment2.target=boolean\ preFix(PrefixProblem.Node,\ java.lang.String,\ int)
+comment3.params=
+comment3.target=void\ main()
+numComments=4

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=WordBreak
+comment1.params=root\ word
+comment1.target=void\ insert(WordBreak.Node,\ java.lang.String)
+comment2.params=root\ word
+comment2.target=boolean\ search(WordBreak.Node,\ java.lang.String)
+comment3.params=root\ key
+comment3.target=boolean\ solution(WordBreak.Node,\ java.lang.String)
+comment4.params=
+comment4.target=void\ main()
+numComments=5
